@@ -1,0 +1,39 @@
+/* #totalUsers{
+    background-color: orangered;
+    border-radius: 25px;
+}
+
+#students{
+    background-color: yellowgreen;
+    border-radius: 25px;
+}
+
+#teachingStaff{
+    background-color: blueviolet;
+    border-radius: 25px;
+}
+
+#nonTeachingstaff{
+    background-color: aqua;
+    border-radius: 25px;
+}
+
+#parents{
+    background-color: beige;
+    border-radius: 25px;
+}
+
+
+} */
+#verticalNav{
+    background-color: rgba(42, 42, 41, 0.821);
+}
+
+#horizonNav{
+    background-color: rgba(21, 21, 22, 0.819);
+    color: white;
+}
+
+a{
+    color: white;
+}
